@@ -1,5 +1,6 @@
 class Dog(name)
-  @fido = fido
+end  
+
+  fido = Dog.new
   @snoopy = snoopy
   @lassie = lassie
-  end
