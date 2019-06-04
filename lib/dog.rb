@@ -2,5 +2,5 @@ class Dog(name)
 end  
 
   fido = Dog.new
-  @snoopy = snoopy
-  @lassie = lassie
+  snoopy = Dog.new
+  lassie = Dog.new
